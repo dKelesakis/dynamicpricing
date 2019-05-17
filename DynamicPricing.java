@@ -85,7 +85,7 @@ public class RegressionMultiply{
             iterator.reset();
             net.fit(iterator);
         }
-        // Test the addition of 2 numbers (Try different numbers here)
+        
         final INDArray input = Nd4j.create(new double[] { 7.088, 5, 1, 0, 2.5, 5, 4.83757875, 4, 1 }, new int[] { 1, 9 });
         INDArray out = net.output(input, false);
         System.out.println(out);
