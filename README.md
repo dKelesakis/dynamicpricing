@@ -9,4 +9,4 @@ Dynamic pricing algorithm based on neural networks for e-shops. Simulation of on
 
 #Update 4 (15/7): Completed first, second neural network code, has full functionality
 
-Next update: improve time performance
+#Update 5 (16/8): Fixed erros in neural networks 1 and 2, improved time performance
